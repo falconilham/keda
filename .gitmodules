@@ -1,0 +1,3 @@
+[submodule "keda_assignment"]
+	path = keda_assignment
+	url = git@github.com:falconilham/keda.git
