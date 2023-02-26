@@ -1,3 +1,4 @@
+
 // soal 1
 function fishBash(n) {
     for (let i = 1; i <= n; i++) {
